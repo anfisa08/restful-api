@@ -1,0 +1,1421 @@
+{
+  "items": [
+    {
+      "id": 0,
+      "name": "Элемент с id - 1",
+      "items": [
+        {
+          "id": 11,
+          "name": "UvmuC"
+        },
+        {
+          "id": 12,
+          "name": "GZmWI"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "name": "Элемент с id - 2",
+      "items": [
+        {
+          "id": 22,
+          "name": "7O5Tz"
+        },
+        {
+          "id": 23,
+          "name": "Ffvow"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Элемент с id - 3",
+      "items": [
+        {
+          "id": 33,
+          "name": "GcXHQ"
+        },
+        {
+          "id": 34,
+          "name": "m72vE"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Элемент с id - 4",
+      "items": [
+        {
+          "id": 44,
+          "name": "5wuzp"
+        },
+        {
+          "id": 45,
+          "name": "ZV1kb"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Элемент с id - 5",
+      "items": [
+        {
+          "id": 55,
+          "name": "EcpIL"
+        },
+        {
+          "id": 56,
+          "name": "CtkW6"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Элемент с id - 6",
+      "items": [
+        {
+          "id": 66,
+          "name": "om4N7"
+        },
+        {
+          "id": 67,
+          "name": "walWM"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Элемент с id - 7",
+      "items": [
+        {
+          "id": 77,
+          "name": "UbQJC"
+        },
+        {
+          "id": 78,
+          "name": "RISks"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Элемент с id - 8",
+      "items": [
+        {
+          "id": 88,
+          "name": "CbZsb"
+        },
+        {
+          "id": 89,
+          "name": "TnwXY"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Элемент с id - 9",
+      "items": [
+        {
+          "id": 99,
+          "name": "r1Vjn"
+        },
+        {
+          "id": 910,
+          "name": "7KS3L"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Элемент с id - 10",
+      "items": [
+        {
+          "id": 1010,
+          "name": "xawpS"
+        },
+        {
+          "id": 1011,
+          "name": "CynJo"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Элемент с id - 11",
+      "items": [
+        {
+          "id": 1111,
+          "name": "KRBe3"
+        },
+        {
+          "id": 1112,
+          "name": "qh51z"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Элемент с id - 12",
+      "items": [
+        {
+          "id": 1212,
+          "name": "3t9HM"
+        },
+        {
+          "id": 1213,
+          "name": "KODi0"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Элемент с id - 13",
+      "items": [
+        {
+          "id": 1313,
+          "name": "BDpMg"
+        },
+        {
+          "id": 1314,
+          "name": "Vyg77"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Элемент с id - 14",
+      "items": [
+        {
+          "id": 1414,
+          "name": "u4Kiv"
+        },
+        {
+          "id": 1415,
+          "name": "2Fx5j"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Элемент с id - 15",
+      "items": [
+        {
+          "id": 1515,
+          "name": "e3YOT"
+        },
+        {
+          "id": 1516,
+          "name": "01r3l"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Элемент с id - 16",
+      "items": [
+        {
+          "id": 1616,
+          "name": "bOzJ6"
+        },
+        {
+          "id": 1617,
+          "name": "Z6E7I"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Элемент с id - 17",
+      "items": [
+        {
+          "id": 1717,
+          "name": "hA0tB"
+        },
+        {
+          "id": 1718,
+          "name": "2i9Pt"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Элемент с id - 18",
+      "items": [
+        {
+          "id": 1818,
+          "name": "tpd44"
+        },
+        {
+          "id": 1819,
+          "name": "7xI99"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Элемент с id - 19",
+      "items": [
+        {
+          "id": 1919,
+          "name": "snmBM"
+        },
+        {
+          "id": 1920,
+          "name": "cAXqp"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Элемент с id - 20",
+      "items": [
+        {
+          "id": 2020,
+          "name": "hkXgr"
+        },
+        {
+          "id": 2021,
+          "name": "byzLD"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Элемент с id - 21",
+      "items": [
+        {
+          "id": 2121,
+          "name": "frl1w"
+        },
+        {
+          "id": 2122,
+          "name": "aE4rr"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Элемент с id - 22",
+      "items": [
+        {
+          "id": 2222,
+          "name": "k6JVR"
+        },
+        {
+          "id": 2223,
+          "name": "eOtkB"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Элемент с id - 23",
+      "items": [
+        {
+          "id": 2323,
+          "name": "k3jq5"
+        },
+        {
+          "id": 2324,
+          "name": "PEuPF"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Элемент с id - 24",
+      "items": [
+        {
+          "id": 2424,
+          "name": "gdfGJ"
+        },
+        {
+          "id": 2425,
+          "name": "ZeQzA"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Элемент с id - 25",
+      "items": [
+        {
+          "id": 2525,
+          "name": "Wo9UB"
+        },
+        {
+          "id": 2526,
+          "name": "0OLbT"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Элемент с id - 26",
+      "items": [
+        {
+          "id": 2626,
+          "name": "1I0dI"
+        },
+        {
+          "id": 2627,
+          "name": "mFi6v"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Элемент с id - 27",
+      "items": [
+        {
+          "id": 2727,
+          "name": "vuC4G"
+        },
+        {
+          "id": 2728,
+          "name": "k4S5C"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Элемент с id - 28",
+      "items": [
+        {
+          "id": 2828,
+          "name": "cDw2s"
+        },
+        {
+          "id": 2829,
+          "name": "OnUlX"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Элемент с id - 29",
+      "items": [
+        {
+          "id": 2929,
+          "name": "ruJPr"
+        },
+        {
+          "id": 2930,
+          "name": "OUjNw"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Элемент с id - 30",
+      "items": [
+        {
+          "id": 3030,
+          "name": "6XaQU"
+        },
+        {
+          "id": 3031,
+          "name": "NXITO"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Элемент с id - 31",
+      "items": [
+        {
+          "id": 3131,
+          "name": "8mpmE"
+        },
+        {
+          "id": 3132,
+          "name": "s70oh"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Элемент с id - 32",
+      "items": [
+        {
+          "id": 3232,
+          "name": "bTGw4"
+        },
+        {
+          "id": 3233,
+          "name": "M79RU"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Элемент с id - 33",
+      "items": [
+        {
+          "id": 3333,
+          "name": "DI7lk"
+        },
+        {
+          "id": 3334,
+          "name": "eq0Xr"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Элемент с id - 34",
+      "items": [
+        {
+          "id": 3434,
+          "name": "HNz7r"
+        },
+        {
+          "id": 3435,
+          "name": "yVWiG"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Элемент с id - 35",
+      "items": [
+        {
+          "id": 3535,
+          "name": "PCS2L"
+        },
+        {
+          "id": 3536,
+          "name": "d2vdm"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Элемент с id - 36",
+      "items": [
+        {
+          "id": 3636,
+          "name": "4QgVz"
+        },
+        {
+          "id": 3637,
+          "name": "tnMH4"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Элемент с id - 37",
+      "items": [
+        {
+          "id": 3737,
+          "name": "ZNeAE"
+        },
+        {
+          "id": 3738,
+          "name": "0iI51"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Элемент с id - 38",
+      "items": [
+        {
+          "id": 3838,
+          "name": "n3Ur6"
+        },
+        {
+          "id": 3839,
+          "name": "5rkCV"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Элемент с id - 39",
+      "items": [
+        {
+          "id": 3939,
+          "name": "TCP3k"
+        },
+        {
+          "id": 3940,
+          "name": "lmNES"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Элемент с id - 40",
+      "items": [
+        {
+          "id": 4040,
+          "name": "hmGCq"
+        },
+        {
+          "id": 4041,
+          "name": "wfuVv"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Элемент с id - 41",
+      "items": [
+        {
+          "id": 4141,
+          "name": "6nwVd"
+        },
+        {
+          "id": 4142,
+          "name": "ycmdC"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Элемент с id - 42",
+      "items": [
+        {
+          "id": 4242,
+          "name": "DDI09"
+        },
+        {
+          "id": 4243,
+          "name": "OCNck"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Элемент с id - 43",
+      "items": [
+        {
+          "id": 4343,
+          "name": "4Ncsj"
+        },
+        {
+          "id": 4344,
+          "name": "y5v1R"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Элемент с id - 44",
+      "items": [
+        {
+          "id": 4444,
+          "name": "wpHsW"
+        },
+        {
+          "id": 4445,
+          "name": "SCLZ0"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Элемент с id - 45",
+      "items": [
+        {
+          "id": 4545,
+          "name": "RS5d2"
+        },
+        {
+          "id": 4546,
+          "name": "YuufY"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Элемент с id - 46",
+      "items": [
+        {
+          "id": 4646,
+          "name": "kcHUp"
+        },
+        {
+          "id": 4647,
+          "name": "ZfKKn"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Элемент с id - 47",
+      "items": [
+        {
+          "id": 4747,
+          "name": "O8Q7l"
+        },
+        {
+          "id": 4748,
+          "name": "aQMBu"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Элемент с id - 48",
+      "items": [
+        {
+          "id": 4848,
+          "name": "oHF9k"
+        },
+        {
+          "id": 4849,
+          "name": "c9PQ6"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Элемент с id - 49",
+      "items": [
+        {
+          "id": 4949,
+          "name": "BYs7w"
+        },
+        {
+          "id": 4950,
+          "name": "mushh"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Элемент с id - 50",
+      "items": [
+        {
+          "id": 5050,
+          "name": "r5ip6"
+        },
+        {
+          "id": 5051,
+          "name": "0jBMi"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Элемент с id - 51",
+      "items": [
+        {
+          "id": 5151,
+          "name": "xKvZ0"
+        },
+        {
+          "id": 5152,
+          "name": "Y8xL7"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Элемент с id - 52",
+      "items": [
+        {
+          "id": 5252,
+          "name": "dULhw"
+        },
+        {
+          "id": 5253,
+          "name": "Xp2TU"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Элемент с id - 53",
+      "items": [
+        {
+          "id": 5353,
+          "name": "oRKkj"
+        },
+        {
+          "id": 5354,
+          "name": "Gfgfz"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Элемент с id - 54",
+      "items": [
+        {
+          "id": 5454,
+          "name": "sEDW1"
+        },
+        {
+          "id": 5455,
+          "name": "I9O5a"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Элемент с id - 55",
+      "items": [
+        {
+          "id": 5555,
+          "name": "HlfvK"
+        },
+        {
+          "id": 5556,
+          "name": "AO9rS"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Элемент с id - 56",
+      "items": [
+        {
+          "id": 5656,
+          "name": "FGn4E"
+        },
+        {
+          "id": 5657,
+          "name": "FOQLX"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Элемент с id - 57",
+      "items": [
+        {
+          "id": 5757,
+          "name": "SZwxT"
+        },
+        {
+          "id": 5758,
+          "name": "WfZiM"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Элемент с id - 58",
+      "items": [
+        {
+          "id": 5858,
+          "name": "ewmeH"
+        },
+        {
+          "id": 5859,
+          "name": "jrEFh"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Элемент с id - 59",
+      "items": [
+        {
+          "id": 5959,
+          "name": "KFHpI"
+        },
+        {
+          "id": 5960,
+          "name": "gBbD7"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Элемент с id - 60",
+      "items": [
+        {
+          "id": 6060,
+          "name": "w5f9r"
+        },
+        {
+          "id": 6061,
+          "name": "K9alB"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Элемент с id - 61",
+      "items": [
+        {
+          "id": 6161,
+          "name": "8Bpe7"
+        },
+        {
+          "id": 6162,
+          "name": "SerR0"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Элемент с id - 62",
+      "items": [
+        {
+          "id": 6262,
+          "name": "Uc29D"
+        },
+        {
+          "id": 6263,
+          "name": "1c3TX"
+        }
+      ]
+    },
+    {
+      "id": 62,
+      "name": "Элемент с id - 63",
+      "items": [
+        {
+          "id": 6363,
+          "name": "9Y8BC"
+        },
+        {
+          "id": 6364,
+          "name": "w1O1I"
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "name": "Элемент с id - 64",
+      "items": [
+        {
+          "id": 6464,
+          "name": "4DWfj"
+        },
+        {
+          "id": 6465,
+          "name": "T6xkD"
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "name": "Элемент с id - 65",
+      "items": [
+        {
+          "id": 6565,
+          "name": "iq992"
+        },
+        {
+          "id": 6566,
+          "name": "NV4Dx"
+        }
+      ]
+    },
+    {
+      "id": 65,
+      "name": "Элемент с id - 66",
+      "items": [
+        {
+          "id": 6666,
+          "name": "yOJO1"
+        },
+        {
+          "id": 6667,
+          "name": "Atb0L"
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "name": "Элемент с id - 67",
+      "items": [
+        {
+          "id": 6767,
+          "name": "yAq17"
+        },
+        {
+          "id": 6768,
+          "name": "QvTdU"
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "name": "Элемент с id - 68",
+      "items": [
+        {
+          "id": 6868,
+          "name": "pkMSb"
+        },
+        {
+          "id": 6869,
+          "name": "CjYhY"
+        }
+      ]
+    },
+    {
+      "id": 68,
+      "name": "Элемент с id - 69",
+      "items": [
+        {
+          "id": 6969,
+          "name": "MduSA"
+        },
+        {
+          "id": 6970,
+          "name": "rfWhN"
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "name": "Элемент с id - 70",
+      "items": [
+        {
+          "id": 7070,
+          "name": "0xam8"
+        },
+        {
+          "id": 7071,
+          "name": "gyMik"
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "name": "Элемент с id - 71",
+      "items": [
+        {
+          "id": 7171,
+          "name": "vZO36"
+        },
+        {
+          "id": 7172,
+          "name": "bg9yP"
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "name": "Элемент с id - 72",
+      "items": [
+        {
+          "id": 7272,
+          "name": "uQT0z"
+        },
+        {
+          "id": 7273,
+          "name": "BS7Pg"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "Элемент с id - 73",
+      "items": [
+        {
+          "id": 7373,
+          "name": "GCo9W"
+        },
+        {
+          "id": 7374,
+          "name": "60hZp"
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "name": "Элемент с id - 74",
+      "items": [
+        {
+          "id": 7474,
+          "name": "oG03O"
+        },
+        {
+          "id": 7475,
+          "name": "ytwe3"
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "name": "Элемент с id - 75",
+      "items": [
+        {
+          "id": 7575,
+          "name": "B08o8"
+        },
+        {
+          "id": 7576,
+          "name": "fgQSw"
+        }
+      ]
+    },
+    {
+      "id": 75,
+      "name": "Элемент с id - 76",
+      "items": [
+        {
+          "id": 7676,
+          "name": "bon3T"
+        },
+        {
+          "id": 7677,
+          "name": "3K4ds"
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "name": "Элемент с id - 77",
+      "items": [
+        {
+          "id": 7777,
+          "name": "AcQ8B"
+        },
+        {
+          "id": 7778,
+          "name": "cPLZR"
+        }
+      ]
+    },
+    {
+      "id": 77,
+      "name": "Элемент с id - 78",
+      "items": [
+        {
+          "id": 7878,
+          "name": "gM8uA"
+        },
+        {
+          "id": 7879,
+          "name": "RwWcd"
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "name": "Элемент с id - 79",
+      "items": [
+        {
+          "id": 7979,
+          "name": "5kEAT"
+        },
+        {
+          "id": 7980,
+          "name": "8Lnvm"
+        }
+      ]
+    },
+    {
+      "id": 79,
+      "name": "Элемент с id - 80",
+      "items": [
+        {
+          "id": 8080,
+          "name": "AMy7d"
+        },
+        {
+          "id": 8081,
+          "name": "IMZLr"
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "name": "Элемент с id - 81",
+      "items": [
+        {
+          "id": 8181,
+          "name": "bhLVY"
+        },
+        {
+          "id": 8182,
+          "name": "e9c2M"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "Элемент с id - 82",
+      "items": [
+        {
+          "id": 8282,
+          "name": "2RSxe"
+        },
+        {
+          "id": 8283,
+          "name": "K5hOi"
+        }
+      ]
+    },
+    {
+      "id": 82,
+      "name": "Элемент с id - 83",
+      "items": [
+        {
+          "id": 8383,
+          "name": "wIzxK"
+        },
+        {
+          "id": 8384,
+          "name": "CzLk2"
+        }
+      ]
+    },
+    {
+      "id": 83,
+      "name": "Элемент с id - 84",
+      "items": [
+        {
+          "id": 8484,
+          "name": "QwptC"
+        },
+        {
+          "id": 8485,
+          "name": "UYbYV"
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "name": "Элемент с id - 85",
+      "items": [
+        {
+          "id": 8585,
+          "name": "d3jvq"
+        },
+        {
+          "id": 8586,
+          "name": "TYuIa"
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "name": "Элемент с id - 86",
+      "items": [
+        {
+          "id": 8686,
+          "name": "aT3mq"
+        },
+        {
+          "id": 8687,
+          "name": "qDISP"
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "name": "Элемент с id - 87",
+      "items": [
+        {
+          "id": 8787,
+          "name": "y76w4"
+        },
+        {
+          "id": 8788,
+          "name": "VbC65"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "Элемент с id - 88",
+      "items": [
+        {
+          "id": 8888,
+          "name": "aw4RH"
+        },
+        {
+          "id": 8889,
+          "name": "8VTg5"
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "name": "Элемент с id - 89",
+      "items": [
+        {
+          "id": 8989,
+          "name": "yCMci"
+        },
+        {
+          "id": 8990,
+          "name": "4lD94"
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "name": "Элемент с id - 90",
+      "items": [
+        {
+          "id": 9090,
+          "name": "ur73I"
+        },
+        {
+          "id": 9091,
+          "name": "dEJbS"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "Элемент с id - 91",
+      "items": [
+        {
+          "id": 9191,
+          "name": "PbMwt"
+        },
+        {
+          "id": 9192,
+          "name": "t2cq1"
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "name": "Элемент с id - 92",
+      "items": [
+        {
+          "id": 9292,
+          "name": "zYRXv"
+        },
+        {
+          "id": 9293,
+          "name": "TGrtC"
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "name": "Элемент с id - 93",
+      "items": [
+        {
+          "id": 9393,
+          "name": "VskMF"
+        },
+        {
+          "id": 9394,
+          "name": "2S8Su"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "Элемент с id - 94",
+      "items": [
+        {
+          "id": 9494,
+          "name": "828me"
+        },
+        {
+          "id": 9495,
+          "name": "3MTd0"
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "name": "Элемент с id - 95",
+      "items": [
+        {
+          "id": 9595,
+          "name": "7ZbQx"
+        },
+        {
+          "id": 9596,
+          "name": "2vCJ2"
+        }
+      ]
+    },
+    {
+      "id": 95,
+      "name": "Элемент с id - 96",
+      "items": [
+        {
+          "id": 9696,
+          "name": "f5mqP"
+        },
+        {
+          "id": 9697,
+          "name": "LXzYr"
+        }
+      ]
+    },
+    {
+      "id": 96,
+      "name": "Элемент с id - 97",
+      "items": [
+        {
+          "id": 9797,
+          "name": "iqR57"
+        },
+        {
+          "id": 9798,
+          "name": "XKVKr"
+        }
+      ]
+    },
+    {
+      "id": 97,
+      "name": "Элемент с id - 98",
+      "items": [
+        {
+          "id": 9898,
+          "name": "RmxvS"
+        },
+        {
+          "id": 9899,
+          "name": "IFtKn"
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "name": "Элемент с id - 99",
+      "items": [
+        {
+          "id": 9999,
+          "name": "kydxO"
+        },
+        {
+          "id": 99100,
+          "name": "EBluP"
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "name": "Элемент с id - 100",
+      "items": [
+        {
+          "id": 100100,
+          "name": "JbuvN"
+        },
+        {
+          "id": 100101,
+          "name": "pZHJz"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "Элемент с id - 101",
+      "items": [
+        {
+          "id": 101101,
+          "name": "aqsfn"
+        },
+        {
+          "id": 101102,
+          "name": "wnHnh"
+        }
+      ]
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
